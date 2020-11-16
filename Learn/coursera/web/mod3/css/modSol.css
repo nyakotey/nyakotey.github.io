@@ -1,0 +1,9 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+.container{width: 85%;}
+#main{
+  background-color: #ddd;
+}
+p:first-child{font-weight: bold;}
